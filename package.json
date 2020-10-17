@@ -1,0 +1,27 @@
+{
+  "name": "spotifyws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clusterws/cws": "^3.0.0",
+    "axios": "^0.20.0",
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "websocket": "^1.0.32"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
